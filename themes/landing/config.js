@@ -11,8 +11,8 @@ const CONFIG = {
   LANDING_HERO_P_1: 'Your Global E-Commerce Ally！'
   LANDING_HERO_BUTTON_1_TEXT: '开始体验',
   LANDING_HERO_BUTTON_1_LINK: 'https://www.coze.cn/store/bot/7434643097185386536?bot_id=true',
-  LANDING_HERO_BUTTON_2_TEXT: '了解更多',
-  LANDING_HERO_BUTTON_2_LINK: 'https://ecomno.one',
+  LANDING_HERO_BUTTON_2_TEXT: '跨境导航',
+  LANDING_HERO_BUTTON_2_LINK: 'https://ai.ecomno.one',
   LANDING_HERO_VIDEO_IMAGE: '/images/home.png',
   //   HERO_VIDEO_URL: '/videos/video.mp4',
   LANDING_HERO_VIDEO_IFRAME: '//player.bilibili.com/player.html?aid=913088616&bvid=BV1fM4y1L7Qi&cid=1187218697&page=1&&high_quality=1',
