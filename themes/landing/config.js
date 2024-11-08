@@ -8,9 +8,9 @@ const CONFIG = {
 
   // 首页大图英雄板块
   LANDING_HERO_TITLE_1: 'eCom NO.1',
-  LANDING_HERO_P_1: 'Your Global E-Commerce Ally！',
-  LANDING_HERO_BUTTON_1_TEXT: '开始体验',
-  LANDING_HERO_BUTTON_1_LINK: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
+  LANDING_HERO_P_1: 'Your Global E-Commerce Ally！'
+  LANDING_HERO_BUTTON_1_TEXT: 'AI助理',
+  LANDING_HERO_BUTTON_1_LINK: 'https://www.coze.cn/store/bot/7434643097185386536?bot_id=true',
   LANDING_HERO_BUTTON_2_TEXT: '了解更多',
   LANDING_HERO_BUTTON_2_LINK: 'https://docs.tangly1024.com/about',
   LANDING_HERO_VIDEO_IMAGE: '/images/home.png',
