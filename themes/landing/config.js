@@ -1,14 +1,14 @@
 const CONFIG = {
 
-  LANDING_HEADER_BUTTON_1_TITLE: '跨境工匠',
-  LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
+  LANDING_HEADER_BUTTON_1_TITLE: 'eComNO.1',
+  LANDING_HEADER_BUTTON_1_URL: 'https://ecomno.one',
 
   LANDING_HEADER_BUTTON_2_TITLE: '微信公号',
-  LANDING_HEADER_BUTTON_2_URL: 'https://blog.tangly1024.com/',
+  LANDING_HEADER_BUTTON_2_URL: 'https://mp.weixin.qq.com/mp/homepage?__biz=MzIwNTgyMDY4Ng==&hid=2&sn=fc92fb4285c6e6d3e3adb9657dd85b1c&scene=18&devicetype=android-33&version=2800353a&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_b29a62c4f020&pass_ticket=3ckqyZ8nhOyHD66GmIk64Opl1lXhjLcE2p7QDX%2F16UrjYfksy9FEJo2XcU471zeb&wx_header=3',
 
   // 首页大图英雄板块
-  LANDING_HERO_TITLE_1: 'NotionNext',
-  LANDING_HERO_P_1: '快速搭建独立站、轻松放大品牌价值！',
+  LANDING_HERO_TITLE_1: 'eCom NO.1',
+  LANDING_HERO_P_1: 'Your Global E-Commerce Ally！',
   LANDING_HERO_BUTTON_1_TEXT: '开始体验',
   LANDING_HERO_BUTTON_1_LINK: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
   LANDING_HERO_BUTTON_2_TEXT: '了解更多',
